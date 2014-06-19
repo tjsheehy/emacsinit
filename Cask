@@ -11,6 +11,7 @@
 (depends-on "flycheck")
 (depends-on "ggtags")
 (depends-on "magit")
+(depends-on "markdown-mode")
 (depends-on "nav")
 (depends-on "pallet")
 (depends-on "persp-projectile")
